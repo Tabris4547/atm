@@ -2,6 +2,10 @@ ATM Controller
 
 Test code review
 
--> Case for pin check.
+1)check for pin
 
-I write code for 
+2)check for choose account
+
+3)check for balance,deposit,withdraw
+
+
